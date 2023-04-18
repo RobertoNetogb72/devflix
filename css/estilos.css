@@ -6,6 +6,7 @@ header {
 	background-color: black;
 	text-align: center;
 	padding: 20px 10px;
+	width: 1499px;
 }
 :root {
 	--cor-fundo: #000;
@@ -16,31 +17,39 @@ header {
 #sessão1 {
 	background-color: var(--cor-fundo);
 	height: 900px;
+	width: 1519px;
 }
 #sessão2 {
 	background-color: var(--cor-fundo2);
 	height: 900px;
+	width: 1519px;
 }
 #sessão3 {
 	background-color: var(--cor-fundo);
 	height: 900px;
+	width: 1519px;
 }
 #sessão4 {
 	background-color: var(--cor-fundo2);
 	height: 900px;
+	width: 1519px;
 }
 #sessão5 {
 	background-color: var(--cor-fundo);
 	height: 900px;
+	width: 1519px;
+	width: 1519px;
 }
 #sessão6 {
 	background-color: var(--cor-fundo2);
 	height: 900px;
 	text-align: center;
+	width: 1519px;
 }
 #final {
 	background-color: var(--cor-fundo2);
 	text-align: center;
+	width: 1519px;
 }
 .container {
 	display: grid;
